@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>LLM-powered multi-agent systems like Smart Agri Advisor, PDF QA bots, and automation tools.<br><br>🤝 I’m looking to collaborate on<br>LLM-based productivity tools, open-source ML projects, and real-world AI applications.<br><br>🧠 I’m looking for help with<br>Deploying AI systems at scale, optimizing agent memory and performance, and integrating LLMs with real-time APIs.<br><br>🌱 I’m currently learning<br>LangGraph, Google Agent Development Kit (ADK), Deep Learning, and building AI tutors for schools.<br><br>⚡ Fun fact<br>I once built an AI agent that could manage my day better than I could myself!
+🔭 I’m currently working on<br>LLM-powered multi-agent systems like Smart Agri Advisor, PDF QA bots, and automation tools.<br><br>🤝 I’m looking to collaborate on<br>LLM-based productivity tools, open-source ML projects, and real-world AI applications.<br><br>🧠 I’m looking for help with<br>Deploying AI systems at scale, optimizing agent memory and performance, and integrating LLMs with real-time APIs.<br><br>🌱 I’m currently learning<br>LangGraph, Google Agent Development Kit (ADK) and Deep Learning.<br><br>⚡ Fun fact<br>I once built an AI agent that could manage my day better than I could myself!
 
 
 # 💻 Tech Stack:
