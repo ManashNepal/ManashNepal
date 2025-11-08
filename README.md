@@ -1,5 +1,9 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>LLM-powered multi-agent systems like Smart Agri Advisor, PDF QA bots, and automation tools.<br><br>🤝 I’m looking to collaborate on<br>LLM-based productivity tools, open-source ML projects, and real-world AI applications.<br><br>🧠 I’m looking for help with<br>Deploying AI systems at scale, optimizing agent memory and performance, and integrating LLMs with real-time APIs.<br><br>🌱 I’m currently learning<br>LangGraph, Google Agent Development Kit (ADK) and Deep Learning.<br><br>⚡ Fun fact<br>I once built an AI agent that could manage my day better than I could myself!
+I am a Computer Science and Engineering student, passionate about artificial intelligence and real-world problem-solving.
+
+I specialize in developing intelligent systems using large language models (LLMs), with a focus on multi-agent systems, automation, and natural language reasoning. I'm currently working on several projects, including a **Smart Agri Advisor**, **PDF QA bots**, and other **automation tools**.
+
+I enjoy experimenting with new AI frameworks and am always expanding my skills. Right now, I'm diving deep into **LangGraph**, the **Google Agent Development Kit (ADK)**, and advanced **Deep Learning** concepts. My goal is to tackle complex challenges like deploying AI systems at scale, optimizing agent memory, and integrating LLMs with real-time APIs.
 
 
 # 💻 Tech Stack:
