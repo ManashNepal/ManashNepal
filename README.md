@@ -1,8 +1,9 @@
 ## 👋 About Me
 
-I’m a Computer Science and Engineering student who enjoys building well-structured software and understanding how different parts of a system work together. My interests revolve around backend development, data handling, and APIs, with a focus on writing clean, maintainable code and designing reliable application logic.
+I’m a Computer Science and Engineering student who enjoys working on software from a systems perspective and understanding how different components interact within an application. My interests center around backend development, data handling, and APIs, with a focus on building reliable functionality and clear system behavior.
 
 I’m increasingly exploring machine learning from a practical, engineering perspective—working with data, integrating models into applications, and understanding how ML fits into real software products. I’m motivated by learning through building and aim to grow into roles where software, data, and intelligent components intersect.
+
 
 
 
