@@ -4,7 +4,7 @@ I’m a Computer Science and Engineering student who enjoys working on software 
 
 I’m increasingly exploring machine learning from a practical, engineering perspective—working with data, integrating models into applications, and understanding how ML fits into real software products. I’m motivated by learning through building and aim to grow into roles where software, data, and intelligent components intersect.
 
-
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 
 # 💻 Tech Stack
